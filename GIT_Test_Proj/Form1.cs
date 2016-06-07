@@ -16,5 +16,20 @@ namespace GIT_Test_Proj
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (button1.Text == "CAPS")
+            {
+
+                textBox1.Text = (textBox1.Text).ToUpper();
+                button1.Text = "LOWER";
+            }
+            else
+            {
+                textBox1.Text = (textBox1.Text).ToLower();
+                button1.Text = "CAPS";
+            }
+        }
     }
 }
