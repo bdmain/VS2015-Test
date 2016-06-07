@@ -31,5 +31,10 @@ namespace GIT_Test_Proj
                 button1.Text = "CAPS";
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
