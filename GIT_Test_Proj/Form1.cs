@@ -36,5 +36,10 @@ namespace GIT_Test_Proj
         {
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
