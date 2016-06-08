@@ -66,9 +66,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(372, 36);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(114, 13);
+            this.label2.Size = new System.Drawing.Size(115, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Command Lines SUCK";
+            this.label2.Text = "Command Lines ROCK";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
